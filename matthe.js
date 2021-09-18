@@ -126,7 +126,7 @@ client.on("message", (message) => {
     .setID('ÇekilişKatılımcısı');
   
   message.channel.send(`
-Merhaba!
+Herkese Merhaba!
  
 Çekiliş Katılımcısı alarak **nitro, spotify, netflix ve benzeri çekilişlere katılıp ödül sahibi** olabilirsiniz.
 
